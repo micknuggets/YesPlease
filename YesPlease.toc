@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: YesPlease
+## Notes: Auto-confirm StaticPopup dialogs.
+## Author: micknuggets
+## Version: 1.60.1a
+## SavedVariables: YesPleaseDB
+
+YesPlease.lua
